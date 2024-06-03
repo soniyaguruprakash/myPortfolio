@@ -37,7 +37,7 @@ function Personalsite() {
                 <a href="https://www.facebook.com/" rel="noreferrer" target="_blank" class="facebook"><i class="bi bi-facebook"></i></a>
                 <a href="https://www.instagram.com/accounts/login/" rel="noreferrer" target="_blank" class="instagram"><i class="bi bi-instagram"></i></a>
                 <a href="https://login.live.com/" rel="noreferrer" target="_blank" class="google-plus"><i class="bi bi-skype"></i></a>                
-                <a href="https://github.com/" rel="noreferrer" target="_blank" class="twitter"><i class="bi bi-github"></i></a>
+                <a href="https://github.com/soniyaguruprakash/" rel="noreferrer" target="_blank" class="twitter"><i class="bi bi-github"></i></a>
                 </div>
 
         </div>
@@ -59,7 +59,7 @@ function Personalsite() {
     <section id='hero' className="d-flex flex-column">
         <div className="hero-container">
             <h1>Hi, I'm Soniya</h1>
-            <p><span className="typed" data-typed-items='Web developer,Stock market Advisor,Sales Executive'>Full-Stack Web Developer</span></p>
+            <p><span className="typed" data-typed-items='Web developer,Stock market Advisor,Sales Executive'>Front-End Developer</span></p>
             
         </div> 
     {/* ___________end hero section____________ */}

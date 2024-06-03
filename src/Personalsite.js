@@ -201,7 +201,7 @@ function Personalsite() {
                     <h5 className="fs-4 ms-1 fst-italic fw-bold">- React Js Projects</h5>
                         <div className="col-lg-6">    
                             <div className="card p-4 bbox">
-                                <a href="https://github.com/soniyaguruprakash/GSP-Adminside.git" rel='noreferrer' target="_blank">
+                                <a href="https://gspshop-admin.netlify.app" rel='noreferrer' target="_blank">
                                     <img className="card-img-top" src={admin} width={500} height={300} alt="E-commerce adminside" />
                                 </a>
                                 <h5 className="card-title pt-3 text-success fw-bold">E-commerce AdminSide</h5>
@@ -209,7 +209,7 @@ function Personalsite() {
                         </div>
                         <div className="col-lg-6">    
                             <div className="card p-4 bbox">
-                                <a href="https://github.com/soniyaguruprakash/GSP-Userui.git" rel='noreferrer' target="_blank"> 
+                                <a href="https://gspshop.netlify.app" rel='noreferrer' target="_blank"> 
                                     <img className="card-img-top" src={userui} width={500} height={300} alt="E-commerce userui" />
                                 </a>
                                 <h5 className="card-title pt-3 text-success fw-bold">E-commerce Userui</h5>
